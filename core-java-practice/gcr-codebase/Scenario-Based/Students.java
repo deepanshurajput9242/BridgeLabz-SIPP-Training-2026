@@ -1,6 +1,7 @@
 import java.io.*;
+import java.util.*;
 
-public class Students {
+public class SchoolResultPortal {
 
     public static void main(String[] args) {
 
